@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/alana-portfolio/static/css/main.210eed49.css",
-    "main.js": "/alana-portfolio/static/js/main.ba582071.js",
+    "main.js": "/alana-portfolio/static/js/main.5ccc6d14.js",
     "static/js/453.6533f505.chunk.js": "/alana-portfolio/static/js/453.6533f505.chunk.js",
     "static/media/1.png.jpg": "/alana-portfolio/static/media/1.png.d8fefc15a9d219b702cb.jpg",
     "index.html": "/alana-portfolio/index.html",
     "main.210eed49.css.map": "/alana-portfolio/static/css/main.210eed49.css.map",
-    "main.ba582071.js.map": "/alana-portfolio/static/js/main.ba582071.js.map",
+    "main.5ccc6d14.js.map": "/alana-portfolio/static/js/main.5ccc6d14.js.map",
     "453.6533f505.chunk.js.map": "/alana-portfolio/static/js/453.6533f505.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.210eed49.css",
-    "static/js/main.ba582071.js"
+    "static/js/main.5ccc6d14.js"
   ]
 }
